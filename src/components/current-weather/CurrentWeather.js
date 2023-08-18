@@ -1,6 +1,7 @@
 import './CurrentWeather.css';
 
 function CurrentWeather({ weatherData, city }) {
+  console.log(city)
   return (
     <div className='weather'>
       <div className='top'>

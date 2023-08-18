@@ -1,0 +1,15 @@
+/* Custom styling for the search input */
+.search-input {
+    border-radius: 0.25rem;
+  }
+  
+  /* Style for the button */
+  #button-addon2 {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .error-message {
+    color: red; /* Set the text color to red */
+    /* Add more styles as needed */
+  }
+  

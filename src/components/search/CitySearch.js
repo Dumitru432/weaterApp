@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 import axios from 'axios';
-//import { API_KEY } from '../../secret.js';
+import { API_KEY } from '../../secret.js';
 import Forecast from '../forecast/Forecast.js';
 import CurrentWeather from '../current-weather/CurrentWeather.js';
 import './CitySearch.css';
